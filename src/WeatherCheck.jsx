@@ -78,7 +78,7 @@ const BackgroundCard = () => {
                 transformStyle: "preserve-3d",
                 transform,
             }}
-            className="relative w-96 rounded-xl bg-gradient-to-br from-red-300 to-gray-500"
+            className="relative md:w-96 w-96 h-72 rounded-xl bg-gradient-to-br from-red-300 to-gray-500"
         >
             <div style={{
                 transform: "translateZ(75px)",
